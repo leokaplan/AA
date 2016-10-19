@@ -26,8 +26,7 @@ int frasco(int n, int k)
     
     if(bit+1 != n)
     {
-        printf(" ERRRRROOOOOORRRORO!!!! \n");
-        exit(23);
+        printf(" %d %d\n",bit+1,n);
     }
         
     
